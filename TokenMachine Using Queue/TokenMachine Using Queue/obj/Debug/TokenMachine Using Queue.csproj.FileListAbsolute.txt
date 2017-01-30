@@ -1,0 +1,18 @@
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\bin\Debug\TokenMachine Using Queue.exe.config
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\bin\Debug\TokenMachine Using Queue.exe
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\bin\Debug\TokenMachine Using Queue.pdb
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine_Using_Queue.Form1.resources
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine_Using_Queue.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.exe
+E:\Visual Studio 2013\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.pdb
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\bin\Debug\TokenMachine Using Queue.exe.config
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.exe
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.pdb
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\bin\Debug\TokenMachine Using Queue.exe
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\bin\Debug\TokenMachine Using Queue.pdb
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.csprojResolveAssemblyReference.cache
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine_Using_Queue.Form1.resources
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine_Using_Queue.Properties.Resources.resources
+E:\Projects\TokenMachine Using Queue\TokenMachine Using Queue\obj\Debug\TokenMachine Using Queue.csproj.GenerateResource.Cache
